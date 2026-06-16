@@ -177,3 +177,4 @@ Failed motions are logged as `[WARNING] motion N failed (...)` and the script co
 ## References
 
 - [mixamo_anims_downloader](https://github.com/gnuton/mixamo_anims_downloader) — `getGmsHash` implementation basis
+- [mixamo_model_fetcher](https://github.com/Sapiens-wx/mixamo_model_fetcher) - by [Sapiens-wx](https://github.com/Sapiens-wx)
